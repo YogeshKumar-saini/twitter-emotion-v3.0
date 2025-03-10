@@ -2,3 +2,5 @@
     remote = myremote
 ['remote "myremote"']
     url = /home/yogesh/machim learning/Temp
+['remote "mremote"']
+    url = s3://twitter-emotion-v3.0-dvc/data-storage
