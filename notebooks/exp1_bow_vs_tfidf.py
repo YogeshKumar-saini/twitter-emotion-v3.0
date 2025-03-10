@@ -28,7 +28,6 @@ df.head()
 
 # Define text preprocessing functions
 def lemmatization(text):
-    """Lemmatize the text."""
     lemmatizer = WordNetLemmatizer()
     text = text.split()
     text = [lemmatizer.lemmatize(word) for word in text]
