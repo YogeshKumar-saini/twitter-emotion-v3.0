@@ -4,5 +4,3 @@
     url = s3://yogesh-kumar-saini
     profile = default
     use_ssl = true
-['remote "mremote"']
-    url = s3://twitter-emotion-v3.0-dvc/data-storage
