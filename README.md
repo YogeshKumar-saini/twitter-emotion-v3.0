@@ -160,7 +160,7 @@ python -m unittest tests/test_flask_app.py
 ```
 
 ## Screenshots
-(path_to_your_screenshot.png)
+![Sentiment Analysis](flask_app/a.png)
 
 ## License
 This project is licensed under the MIT License.
